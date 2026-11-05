@@ -1,0 +1,5 @@
+{
+  "name": "UgBlox Rust CI",
+  "description": "Format, lint and test a Rust workspace.",
+  "filePatterns": ["Cargo.toml$"]
+}
